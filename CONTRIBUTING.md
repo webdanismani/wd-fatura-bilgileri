@@ -1,7 +1,7 @@
 # Katkı
 
 Katkılar memnuniyetle kabul edilir. Küçük düzeltmeler için doğrudan PR açabilirsiniz; büyük değişiklikler için önce bir issue veya
-[oblifex.com/ozellik-istegi](https://oblifex.com/ozellik-istegi?utm_source=github&utm_medium=contributing&utm_campaign=wd-fatura-bilgileri) üzerinden konuşalım.
+[oblifex.com](https://oblifex.com/?utm_source=github&utm_medium=contributing&utm_campaign=wd-fatura-bilgileri) üzerinden konuşalım.
 
 ## Kurallar
 
@@ -14,5 +14,5 @@ Katkılar memnuniyetle kabul edilir. Küçük düzeltmeler için doğrudan PR a�
 ## Yerelde deneme
 
 ```bash
-git clone https://github.com/oblifex/wd-fatura-bilgileri.git wp-content/plugins/wd-fatura-bilgileri
+git clone https://github.com/webdanismani/wd-fatura-bilgileri.git wp-content/plugins/wd-fatura-bilgileri
 ```

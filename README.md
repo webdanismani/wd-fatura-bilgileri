@@ -1,17 +1,10 @@
-<p align="center">
-  <a href="https://oblifex.com/?utm_source=github&utm_medium=readme-hero&utm_campaign=wd-fatura-bilgileri">
-    <img src=".github/assets/banner.svg" alt="WD Fatura Bilgileri — Bireysel / kurumsal fatura: TCKN, VKN, vergi dairesi, e-Fatura" width="100%">
-  </a>
-</p>
+<h1 align="center">🧾 WD Fatura Bilgileri</h1>
 
 <p align="center">
-  <a href="https://github.com/oblifex/wd-fatura-bilgileri/releases/latest"><img alt="Sürüm" src="https://img.shields.io/github/v/release/oblifex/wd-fatura-bilgileri?label=s%C3%BCr%C3%BCm&color=c9a45c&labelColor=0e0f11"></a>
-  <a href="https://github.com/oblifex/wd-fatura-bilgileri/releases"><img alt="İndirme" src="https://img.shields.io/github/downloads/oblifex/wd-fatura-bilgileri/total?label=indirme&color=c9a45c&labelColor=0e0f11"></a>
   <img alt="WordPress 6.0+" src="https://img.shields.io/badge/WordPress-6.0%2B-0e0f11?logo=wordpress&logoColor=c9a45c">
   <img alt="WooCommerce 7.0+" src="https://img.shields.io/badge/WooCommerce-7.0%2B%20%C2%B7%20HPOS-0e0f11?logo=woocommerce&logoColor=c9a45c">
   <img alt="PHP 7.4+" src="https://img.shields.io/badge/PHP-7.4%2B-0e0f11?logo=php&logoColor=c9a45c">
   <a href="LICENSE"><img alt="GPL-3.0" src="https://img.shields.io/badge/lisans-GPL--3.0-0e0f11"></a>
-  <a href="https://github.com/oblifex/wd-fatura-bilgileri/actions/workflows/denetim.yml"><img alt="Denetim" src="https://img.shields.io/github/actions/workflow/status/oblifex/wd-fatura-bilgileri/denetim.yml?label=denetim&labelColor=0e0f11"></a>
 </p>
 
 <p align="center">
@@ -20,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/oblifex/wd-fatura-bilgileri/releases/latest/download/wd-fatura-bilgileri.zip"><b>⬇️ Son sürümü indir (ZIP)</b></a>
+  <a href="https://github.com/webdanismani/wd-fatura-bilgileri/archive/refs/heads/main.zip"><b>⬇️ İndir (ZIP)</b></a>
   &nbsp;·&nbsp;
   <a href="#kurulum">Kurulum</a>
   &nbsp;·&nbsp;
@@ -33,18 +26,17 @@
 
 <br>
 
-<a href="https://oblifex.com/?utm_source=github&utm_medium=readme-cta&utm_campaign=wd-fatura-bilgileri">
-  <img src=".github/assets/oblifex.svg" alt="Özellik isteği, destek ve güncellemeler için oblifex.com" width="100%">
-</a>
+<h3 align="center">💬 Destek ve daha fazla ücretsiz yazılım: <a href="https://oblifex.com/?utm_source=github&utm_medium=readme-cta&utm_campaign=wd-fatura-bilgileri">oblifex.com</a></h3>
+<p align="center">Sorularınızı sorabileceğiniz, bu ve benzeri WordPress / WooCommerce yazılımlarını bulabileceğiniz sitemiz · Geliştirici: <a href="https://webdanismani.com">Web Danışmanı</a></p>
 
 > [!TIP]
-> **Bu eklenti [Oblifex](https://oblifex.com/?utm_source=github&utm_medium=readme-tip&utm_campaign=wd-fatura-bilgileri) tarafından ücretsiz sunulur.**
-> Eklenti WordPress'e kurulduğunda yeni sürümleri **kendisi bulur**: GitHub'da yayınlanan her sürüm, WordPress › Eklentiler ekranında normal bir güncelleme gibi görünür ve tek tıkla kurulur.
+> **Bu eklenti [Web Danışmanı](https://webdanismani.com) tarafından geliştirildi ve ücretsiz sunulur. Destek: [oblifex.com](https://oblifex.com/?utm_source=github&utm_medium=readme-tip&utm_campaign=wd-fatura-bilgileri)**
+> Eklenti WordPress'e kurulduğunda yeni sürümleri **kendisi bulur**: bu depoya gelen her yeni sürüm, WordPress › Eklentiler ekranında normal bir güncelleme gibi görünür ve tek tıkla kurulur.
 >
 > | | |
 > |---|---|
-> | ✨ **Özellik isteği** | Eklentide görmek istediğiniz her şeyi [oblifex.com/ozellik-istegi](https://oblifex.com/ozellik-istegi?utm_source=github&utm_medium=readme-tip&utm_campaign=wd-fatura-bilgileri) üzerinden iletin. Öncelikli olarak değerlendirilir. |
-> | 🛟 **Destek** | Kurulum, tema ve uyumluluk soruları: [oblifex.com/destek](https://oblifex.com/destek?utm_source=github&utm_medium=readme-tip&utm_campaign=wd-fatura-bilgileri) |
+> | ✨ **Özellik isteği** | Eklentide görmek istediğiniz her şeyi [oblifex.com](https://oblifex.com?utm_source=github&utm_medium=readme-tip&utm_campaign=wd-fatura-bilgileri) üzerinden iletin. Öncelikli olarak değerlendirilir. |
+> | 🛟 **Destek** | Kurulum, tema ve uyumluluk soruları: [oblifex.com](https://oblifex.com?utm_source=github&utm_medium=readme-tip&utm_campaign=wd-fatura-bilgileri) |
 > | 🔄 **Güncellemeler** | Otomatik. Elle denetlemek için Eklentiler ekranındaki **Güncellemeleri denetle** bağlantısını kullanın. |
 > | 🧩 **Özel geliştirme** | e-Fatura / muhasebe entegrasyonu ve mağazanıza özel çözümler için [oblifex.com](https://oblifex.com/?utm_source=github&utm_medium=readme-tip&utm_campaign=wd-fatura-bilgileri) |
 
@@ -76,13 +68,13 @@ Türkiye'de fatura kesebilmek için müşteriden TC kimlik no ya da firma ünvan
 - **KVKK:** müşteriye giden içerikte TCKN maskeleme; WordPress kişisel veri dışa aktarma ve silme desteği
 - Hesabım › Fatura adresi desteği · **HPOS** uyumlu
 - Mobilde alttan açılan seçim paneli
-- [WD Türkiye Adres](https://github.com/oblifex/wd-turkiye-adres) ile aynı tasarım dili — birlikte kullanıldığında tek parça görünür
+- [WD Türkiye Adres](https://github.com/webdanismani/wd-turkiye-adress) ile aynı tasarım dili — birlikte kullanıldığında tek parça görünür
 
 ## Kurulum
 
 **Seçenek 1 — ZIP (önerilen)**
 
-1. [Son sürümü indirin](https://github.com/oblifex/wd-fatura-bilgileri/releases/latest/download/wd-fatura-bilgileri.zip).
+1. [ZIP'i indirin](https://github.com/webdanismani/wd-fatura-bilgileri/archive/refs/heads/main.zip) (ya da bu sayfadaki yeşil **Code → Download ZIP** düğmesi). Zip'i açmayın.
 2. WordPress › Eklentiler › Yeni Ekle › **Eklenti Yükle** ile ZIP'i yükleyip etkinleştirin.
 3. **WooCommerce › Fatura Bilgileri** sayfasından ayarları yapın.
 4. Ödeme sayfanız blok tabanlıysa **Uyumluluk** sekmesinden klasik yapıya dönüştürün.
@@ -91,10 +83,10 @@ Türkiye'de fatura kesebilmek için müşteriden TC kimlik no ya da firma ünvan
 
 ```bash
 cd wp-content/plugins
-git clone https://github.com/oblifex/wd-fatura-bilgileri.git
+git clone https://github.com/webdanismani/wd-fatura-bilgileri.git
 ```
 
-> Güncellemeler her iki kurulumda da WordPress panelinden gelir. Deponun `main` dalı geliştirme sürümüdür; kararlı sürümler için [Releases](https://github.com/oblifex/wd-fatura-bilgileri/releases) sayfasına bakın.
+> Güncellemeler her iki kurulumda da WordPress panelinden gelir.
 
 ## Gereksinimler
 
@@ -142,7 +134,7 @@ Hayır. Numaralar resmi kontrol hanesi algoritmasıyla doğrulanır; bu, yanlı�
 <details>
 <summary><b>e-Fatura eklentim farklı meta anahtarları bekliyor.</b></summary>
 
-**Uyumluluk & KVKK** sekmesinde her alan için ek anahtar tanımlayabilirsiniz; sipariş kaydedilirken aynı değer o anahtarlara da yazılır. Entegrasyonunuz listede yoksa [özellik isteği](https://oblifex.com/ozellik-istegi?utm_source=github&utm_medium=readme-faq&utm_campaign=wd-fatura-bilgileri) açın.
+**Uyumluluk & KVKK** sekmesinde her alan için ek anahtar tanımlayabilirsiniz; sipariş kaydedilirken aynı değer o anahtarlara da yazılır. Entegrasyonunuz listede yoksa [özellik isteği](https://oblifex.com?utm_source=github&utm_medium=readme-faq&utm_campaign=wd-fatura-bilgileri) açın.
 </details>
 
 <details>
@@ -154,7 +146,7 @@ Müşteriye giden e-postalarda ve sipariş detay sayfasında maskelenir (`123•
 <details>
 <summary><b>Güncellemeler nasıl geliyor?</b></summary>
 
-Eklenti, `Update URI` başlığı sayesinde bu deponun **Releases** sayfasını 12 saatte bir denetler ve yeni sürümü WordPress'in standart güncelleme akışına ekler. Eklentiler ekranındaki **Güncellemeleri denetle** bağlantısı denetimi hemen yapar. wordpress.org ile hiçbir bağlantısı yoktur.
+Eklenti, `Update URI` başlığı sayesinde bu deponun `main` dalındaki sürüm numarasını 12 saatte bir denetler ve yeni sürümü WordPress'in standart güncelleme akışına ekler. Paket eksik dosya içeriyorsa kurulmaz; mevcut sürüm çalışmaya devam eder. Eklentiler ekranındaki **Güncellemeleri denetle** bağlantısı denetimi hemen yapar. wordpress.org ile hiçbir bağlantısı yoktur.
 </details>
 
 ## Veri kaynakları
@@ -167,7 +159,7 @@ Hata bildirimi ve PR'lar için [CONTRIBUTING.md](CONTRIBUTING.md). Güvenlik aç
 
 ## Lisans
 
-[GPL-3.0-or-later](LICENSE) © [Oblifex](https://oblifex.com/?utm_source=github&utm_medium=readme-license&utm_campaign=wd-fatura-bilgileri)
+[GPL-3.0-or-later](LICENSE) © [Web Danışmanı](https://webdanismani.com)
 
 ---
 
@@ -176,5 +168,5 @@ Hata bildirimi ve PR'lar için [CONTRIBUTING.md](CONTRIBUTING.md). Güvenlik aç
     <img alt="oblifex.com — destek & özellik isteği" src="https://img.shields.io/badge/oblifex.com-destek%20%26%20%C3%B6zellik%20iste%C4%9Fi-c9a45c?style=for-the-badge&labelColor=0e0f11">
   </a>
   <br><br>
-  <sub>WordPress &amp; WooCommerce için ücretsiz eklentiler, özel geliştirme ve destek — <b>oblifex.com</b></sub>
+  <sub><a href="https://webdanismani.com"><b>Web Danışmanı</b></a> tarafından geliştirildi · Destek ve daha fazla ücretsiz yazılım: <b>oblifex.com</b></sub>
 </p>

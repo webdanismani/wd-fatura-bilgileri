@@ -1,12 +1,12 @@
 === WD Fatura Bilgileri — Bireysel / Kurumsal ===
-Contributors: oblifex
+Contributors: webdanismani
 Tags: woocommerce, fatura, vergi dairesi, tc kimlik, e-fatura
 Requires at least: 6.0
 Tested up to: 7.0
 Requires PHP: 7.4
 WC requires at least: 7.0
 WC tested up to: 11.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -43,10 +43,10 @@ Türkiye'deki mağazaların fatura kesebilmesi için gereken bilgileri ödeme s�
 
 == Destek, özellik isteği ve güncellemeler ==
 
-Bu eklenti Oblifex (https://oblifex.com) tarafından ücretsiz sunulur. Güncellemeler GitHub sürümlerinden (https://github.com/oblifex/wd-fatura-bilgileri) WordPress paneline otomatik gelir; Eklentiler ekranındaki "Güncellemeleri denetle" bağlantısı denetimi hemen yapar.
+Bu eklenti Oblifex (https://oblifex.com) tarafından ücretsiz sunulur. Güncellemeler GitHub sürümlerinden (https://github.com/webdanismani/wd-fatura-bilgileri) WordPress paneline otomatik gelir; Eklentiler ekranındaki "Güncellemeleri denetle" bağlantısı denetimi hemen yapar.
 
-* Özellik isteği: https://oblifex.com/ozellik-istegi
-* Destek: https://oblifex.com/destek
+* Özellik isteği: https://oblifex.com
+* Destek: https://oblifex.com
 * Özel geliştirme: https://oblifex.com
 
 == Installation ==
@@ -70,6 +70,11 @@ Hayır. Numaralar resmi kontrol hanesi algoritmasıyla doğrulanır; bu, yanlı�
 * Vergi dairesi listesi: kursattaner/2024-turkey-list-of-tax-offices (GİB, Nisan 2024, GPL-3.0)
 
 == Changelog ==
+
+= 1.0.1 =
+* Eksik dosya nedeniyle etkinleştirmede oluşan kritik hata giderildi.
+* Eksik kurulum koruması ve güvenli güncelleme.
+* Destek: oblifex.com · Geliştirici: Web Danışmanı (webdanismani.com).
 
 = 1.0.0 =
 * İlk sürüm.
